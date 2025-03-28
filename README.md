@@ -1,12 +1,12 @@
 # Pizza Napoletana 101 🍕
 
-Four ingredients, time, and sufficient heat are the foundation of a good pizza. Of course, there are preferments like "poolish" or "biga," finely milled 00 flours imported from Italy, and people who swear by heating their pizza ovens only with wood from old olive trees. Yes, these inputs all make a difference, but with supermarket flour, regular dry yeast, and some time, you can get a pretty good pizza.
+Four ingredients, time, and sufficient heat are the foundation of a good pizza. Of course, there are preferments like "poolish" or "biga," finely milled 00 flours imported from Italy, and people who swear by heating their pizza ovens only with wood from old olive trees. Yes, these inputs all make a difference, but with white flour from the supermarket, regular dry yeast, and some time, you can get a pretty good pizza too.
 
-This short guide is meant to serve as a starting point to step up your pizza game and surprise your friends and family with that airy crust and nice leoparding at the bottom of your pizza. I'll give you some tips and tricks along the way, and for those who want to delve deeper into the subject, I'll link videos or detailed guides.
+This short guide is meant to serve as a starting point to step up your pizza game and surprise your friends and family with that airy crust and nice leoparding at the bottom of your pizza. I'll give you some tips and tricks along the way, and for those who want to delve deeper into the subject, I'll link videos and detailed guides.
 
-## The Recipe
+## The recipe
 
-Below is the recipe for four pizzas, each around 280g, which makes for a pizza with a diameter of roughly 30 cm. The proportions follow baker's percentages. That is, each ingredient is expressed as a percentage of the flour weight used. This makes for easy scaling, gives you more control and precision, and allows you to easily adjust important parameters like hydration.
+Below is the recipe for four pizzas, each around 280g, which makes for a pizza with a diameter of roughly 30 cm. The proportions follow baker's percentages. That is, each ingredient is expressed as a percentage of the flour weight used. This makes for easy scaling, gives you more control and precision, and allows you to easily adjust important parameters like [hydration](https://www.kingarthurbaking.com/blog/2023/01/11/bread-hydration).
 
 | Ingredient | Baker's percentage |
 | --- | --- |
@@ -17,17 +17,17 @@ Below is the recipe for four pizzas, each around 280g, which makes for a pizza w
 
 This recipe is quite forgiving. With a 65% hydration, it still gives you a "moist" dough without making it too complicated to handle. There's a nice saltiness to the dough without going overboard, and yes, you really only need this small amount of yeast. If you let time be your friend, you'll get an airy crust without any of that yeasty flavor that you often get with fast-fermented products.
 
-If you want to experiment with other proportions (e.g., 75% hydration) or need to adjust the amount of dough, there's this super handy calculator by Pieter Städler: [https://www.stadlermade.com/pizza-dough-calculator/](https://www.stadlermade.com/pizza-dough-calculator/) (Beware, the default proportions for the salt and the yeast are not the same!)
+If you want to experiment with other proportions (e.g., 75% hydration) or need to adjust the amount of dough, there's this super handy calculator by Pieter Städler: [https://www.stadlermade.com/pizza-calculator/](https://www.stadlermade.com/pizza-calculator/) *Beware, the default proportions for the salt and the yeast are not the same!*
 
 ## A Quick Guide on the Ingredients
 
-### Flour
+### Flour 
 
 You'll see that many recipes call for 00 flour. 00 or "doppio zero" refers to the grind size according to the Italian classification system. In Germany, equivalents would be T405/T550, whereas in France, it would be T45. Very often, though, you'll just find regular white flour, and that's perfectly fine. 00's very fine texture makes for a really smooth dough, and its low enzymatic activity helps with baking at high temperatures, but your regular supermarket flour will do just fine. However, I encourage you to support your local farmers and buy white flour from your region.
 
 **Deep dive links**
 
-00 deep dive: https://www.pizzablab.com/learning-and-resources/flour/00-flour/
+- [https://www.pizzablab.com/learning-and-resources/flour/00-flour/](https://www.pizzablab.com/learning-and-resources/flour/00-flour/)
 
 ### Water
 
@@ -51,7 +51,7 @@ And yes, you can mix salt and yeast directly together. However, the statement th
 **Deep dive links**
 
 - [https://genuineideas.com/ArticlesIndex/saltyeast.html](https://genuineideas.com/ArticlesIndex/saltyeast.html)
-- https://www.pizzablab.com/learning-and-resources/ingredients/guide-to-yeast/
+- [https://www.pizzablab.com/learning-and-resources/ingredients/guide-to-yeast/](https://www.pizzablab.com/learning-and-resources/ingredients/guide-to-yeast/)
 
 ## Preparing the Dough
 
@@ -68,3 +68,17 @@ Let's prepare the dough! I use a kneading machine for this, but all the steps al
 How exactly to stretch the dough, how to prepare the tomato sauce (tip: 1g salt per 100g tomato sauce), and which mozzarella to use is beyond the scope of this guide (at least for now). However, the videos linked offer very good advice and show you different techniques for stretching the pizza dough. No matter how you do it, keep one rule in mind: "Never touch the border!"
 
 Buon appetito!
+
+## More links
+
+- **YouTube**
+  - [Städler Made](https://www.youtube.com/@stadlermade/videos)
+  - [Vito Iacopelli](https://www.youtube.com/@vitoiacopelli/videos)
+  - [Malati di Pizza](https://www.youtube.com/@MalatidiPizza)
+  - [La pizza fatta a mano - Luigi Schifano](https://www.youtube.com/@Lapizzafattaamano/videos)
+  - [Vinzenco Capuano](https://www.youtube.com/@capuanovincenzo/videos)
+ 
+- **Pizza ovens**
+  - [Ooni](https://ooni.com/)
+  - [Gozney](https://eu.gozney.com/)
+  - [Cozze](https://cozzebbq.com/)
